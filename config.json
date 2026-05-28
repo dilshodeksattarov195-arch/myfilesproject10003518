@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtervarse",
+        "uuid": 30810644,
+        "checksum": "l9mbw5"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
